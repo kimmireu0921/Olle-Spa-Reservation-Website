@@ -1,0 +1,106 @@
+{
+  "nav": {
+    "home": "首页",
+    "services": "服务项目",
+    "therapists": "按摩师",
+    "reviews": "评价",
+    "contact": "联系我们",
+    "booking": "立即预约",
+    "admin": "管理员"
+  },
+  "common": {
+    "loading": "加载中...",
+    "submit": "提交",
+    "cancel": "取消",
+    "close": "关闭",
+    "save": "保存",
+    "delete": "删除",
+    "back": "返回",
+    "next": "下一步",
+    "minutes": "分钟"
+  },
+  "home": {
+    "heroTitle": "Olle Spa",
+    "heroSubtitle": "与我们的按摩师一起放松身心，恢复活力。",
+    "cta": "预约"
+  },
+  "services": {
+    "title": "我们的服务",
+    "subtitle": "选择适合您的项目。",
+    "bookThis": "预约此项目"
+  },
+  "therapists": {
+    "title": "我们的按摩师",
+    "subtitle": "认识我们专注于您放松体验的团队。"
+  },
+  "reviews": {
+    "title": "客户评价",
+    "poweredBy": "评价来自 Google",
+    "noReviews": "暂时无法显示评价。"
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "有任何问题吗？给我们留言，我们会尽快回复您。",
+    "address": "地址",
+    "phone": "电话",
+    "email": "邮箱",
+    "formName": "姓名",
+    "formEmail": "邮箱（选填）",
+    "formPhone": "电话（选填）",
+    "formMessage": "留言内容",
+    "formSubmit": "发送消息",
+    "formSuccess": "感谢您的留言，我们会尽快回复。",
+    "formError": "发送消息时出现问题，请重试。"
+  },
+  "booking": {
+    "title": "预约",
+    "stepService": "1. 选择服务",
+    "stepTherapist": "2. 选择按摩师",
+    "stepDate": "3. 选择日期",
+    "stepTime": "4. 选择时间",
+    "stepInfo": "5. 您的信息",
+    "noSlots": "该日期没有可预约的时间，请选择其他日期。",
+    "customerName": "姓名",
+    "customerPhone": "电话号码",
+    "customerEmail": "邮箱（选填）",
+    "confirmButton": "确认预约",
+    "confirmationTitle": "预约成功！",
+    "confirmationBody": "期待您的光临。",
+    "slotTakenError": "该时段刚被预约，请选择其他时间。",
+    "pickAnother": "选择其他时间",
+    "bookAgain": "再次预约"
+  },
+  "admin": {
+    "loginTitle": "管理员登录",
+    "passwordLabel": "密码",
+    "loginButton": "登录",
+    "loginError": "密码错误。",
+    "dashboardTitle": "管理后台",
+    "tabBookings": "预约",
+    "tabBlockedSlots": "屏蔽时段",
+    "tabMessages": "消息",
+    "logout": "退出登录",
+    "date": "日期",
+    "time": "时间",
+    "service": "服务",
+    "therapist": "按摩师",
+    "customer": "客户",
+    "status": "状态",
+    "actions": "操作",
+    "cancelBooking": "取消",
+    "addBlock": "添加屏蔽时段",
+    "blockDate": "日期",
+    "blockStart": "开始时间",
+    "blockEnd": "结束时间",
+    "blockReason": "原因（选填）",
+    "blockTherapist": "按摩师",
+    "allTherapists": "整店",
+    "noMessages": "暂无消息。",
+    "markRead": "标记为已读",
+    "unread": "未读",
+    "read": "已读"
+  },
+  "footer": {
+    "rights": "版权所有。"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "services": "サービス",
+    "therapists": "セラピスト",
+    "reviews": "レビュー",
+    "contact": "お問い合わせ",
+    "booking": "予約する",
+    "admin": "管理者"
+  },
+  "common": {
+    "loading": "読み込み中...",
+    "submit": "送信",
+    "cancel": "キャンセル",
+    "close": "閉じる",
+    "save": "保存",
+    "delete": "削除",
+    "back": "戻る",
+    "next": "次へ",
+    "minutes": "分"
+  },
+  "home": {
+    "heroTitle": "Olle Spa",
+    "heroSubtitle": "セラピストと共にリラックスし、活力を取り戻しましょう。",
+    "cta": "予約する"
+  },
+  "services": {
+    "title": "サービス一覧",
+    "subtitle": "あなたに合ったトリートメントをお選びください。",
+    "bookThis": "予約する"
+  },
+  "therapists": {
+    "title": "セラピスト紹介",
+    "subtitle": "あなたのリラクゼーションのために尽力するチームをご紹介します。"
+  },
+  "reviews": {
+    "title": "お客様の声",
+    "poweredBy": "Google のレビュー",
+    "noReviews": "現在レビューを表示できません。"
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "subtitle": "ご質問がございましたら、メッセージをお送りください。担当者よりご連絡いたします。",
+    "address": "住所",
+    "phone": "電話番号",
+    "email": "メールアドレス",
+    "formName": "お名前",
+    "formEmail": "メールアドレス（任意）",
+    "formPhone": "電話番号（任意）",
+    "formMessage": "メッセージ",
+    "formSubmit": "メッセージを送る",
+    "formSuccess": "メッセージを受け取りました。近日中にご連絡いたします。",
+    "formError": "メッセージの送信中に問題が発生しました。もう一度お試しください。"
+  },
+  "booking": {
+    "title": "予約する",
+    "stepService": "1. サービスを選択",
+    "stepTherapist": "2. セラピストを選択",
+    "stepDate": "3. 日付を選択",
+    "stepTime": "4. 時間を選択",
+    "stepInfo": "5. お客様情報",
+    "noSlots": "この日付には空き時間がありません。別の日付をお選びください。",
+    "customerName": "お名前",
+    "customerPhone": "電話番号",
+    "customerEmail": "メールアドレス（任意）",
+    "confirmButton": "予約を確定する",
+    "confirmationTitle": "ご予約が完了しました！",
+    "confirmationBody": "ご来店を心よりお待ちしております。",
+    "slotTakenError": "その時間帯はちょうど予約されました。別の時間をお選びください。",
+    "pickAnother": "別の時間を選ぶ",
+    "bookAgain": "もう一度予約する"
+  },
+  "admin": {
+    "loginTitle": "管理者ログイン",
+    "passwordLabel": "パスワード",
+    "loginButton": "ログイン",
+    "loginError": "パスワードが正しくありません。",
+    "dashboardTitle": "管理者ダッシュボード",
+    "tabBookings": "予約",
+    "tabBlockedSlots": "ブロック済み時間",
+    "tabMessages": "メッセージ",
+    "logout": "ログアウト",
+    "date": "日付",
+    "time": "時間",
+    "service": "サービス",
+    "therapist": "セラピスト",
+    "customer": "顧客",
+    "status": "状況",
+    "actions": "操作",
+    "cancelBooking": "キャンセル",
+    "addBlock": "ブロック時間を追加",
+    "blockDate": "日付",
+    "blockStart": "開始時間",
+    "blockEnd": "終了時間",
+    "blockReason": "理由（任意）",
+    "blockTherapist": "セラピスト",
+    "allTherapists": "店舗全体",
+    "noMessages": "まだメッセージはありません。",
+    "markRead": "既読にする",
+    "unread": "未読",
+    "read": "既読"
+  },
+  "footer": {
+    "rights": "全著作権所有。"
+  }
+}
