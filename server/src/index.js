@@ -1,4 +1,6 @@
 require('dotenv').config();
+const path = require('path');
+const fs = require('fs');
 const express = require('express');
 const cors = require('cors');
 
@@ -25,6 +27,14 @@ app.use('/api/messages', messagesRoutes.router);
 app.use('/api/admin/messages', messagesRoutes.adminRouter);
 app.use('/api/admin/blocked-slots', blockedSlotsRoutes);
 app.use('/api/admin', adminAuthRoutes);
+
+const clientDist = path.join(__dirname, '../../client/dist');
+if (fs.existsSync(clientDist)) {
+  app.use(express.static(clientDist));
+  app.get(/^(?!\/api).*/, (req, res) => {
+    res.sendFile(path.join(clientDist, 'index.html'));
+  });
+}
 
 app.use((err, req, res, next) => {
   console.error(err);
