@@ -19,10 +19,6 @@ export default function Contact() {
           <p><a href="tel:+639562206222">+63 956 220 6222</a></p>
         </div>
         <div className="card">
-          <h3>{t('contact.email')}</h3>
-          <p>hello@ollespa.example (placeholder)</p>
-        </div>
-        <div className="card">
           <h3>{t('contact.kakao')}</h3>
           <p><a href="http://pf.kakao.com/_HiGFxj" target="_blank" rel="noopener noreferrer">pf.kakao.com/_HiGFxj</a></p>
         </div>
