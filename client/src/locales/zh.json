@@ -44,6 +44,7 @@
     "address": "地址",
     "phone": "电话",
     "email": "邮箱",
+    "kakao": "Kakao频道",
     "formName": "姓名",
     "formEmail": "邮箱（选填）",
     "formPhone": "电话（选填）",

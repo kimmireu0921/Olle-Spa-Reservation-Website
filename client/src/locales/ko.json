@@ -44,6 +44,7 @@
     "address": "주소",
     "phone": "전화번호",
     "email": "이메일",
+    "kakao": "카카오톡 채널",
     "formName": "이름",
     "formEmail": "이메일 (선택)",
     "formPhone": "전화번호 (선택)",
