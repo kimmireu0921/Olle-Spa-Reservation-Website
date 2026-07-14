@@ -66,10 +66,20 @@ a {
 }
 
 .navbar-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
   font-size: 1.4rem;
   font-weight: 700;
   color: var(--color-primary-dark);
   text-decoration: none;
+}
+
+.navbar-logo {
+  height: 36px;
+  width: 36px;
+  border-radius: 50%;
+  object-fit: cover;
 }
 
 .navbar-links {

@@ -9,6 +9,7 @@ export default function Navbar() {
     <header className="navbar">
       <div className="navbar-inner">
         <NavLink to="/" className="navbar-brand">
+          <img src="/logo.jpg" alt="Olle Spa" className="navbar-logo" />
           Olle Spa
         </NavLink>
         <nav className="navbar-links">
